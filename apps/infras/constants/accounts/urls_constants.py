@@ -1,0 +1,4 @@
+ACCOUNT_USERS_LIST = "users-list"
+ACCOUNTS_USERS_DETAIL = "users-detail"
+AUTH_LOGIN = None
+AUTH_LOGOUT = None
